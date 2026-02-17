@@ -94,5 +94,5 @@ const renderRecipes = (recipesToRender) => {
     recipeContainer.innerHTML = recipeCardsHTML;
 };
 
-// Initialize app joerjisij
+// Initialize app joerjisijleklg
 renderRecipes(recipes);
