@@ -1,2 +1,2 @@
 # recipejs1
-i am a student 
+i am a student in a college
